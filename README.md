@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NethsaraWijesinghe
 - 👀 I’m interested in Machine Learning, Data Analytics, Programming & Astronomy
-- 🌱 I’m currently learning Machine learning, Combined mathematics & Physics
+- 🌱 I’m currently learning ML, C. mathematics & Physics
 - 💞️ I’m looking to collaborate on Programming and Machine Learning projects
 - 📫 How to reach me: contact.verbose@gmail.com
 
